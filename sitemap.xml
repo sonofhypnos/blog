@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://sonofhypnos.github.io/projects/prediction/python/2020/01/30/sp500.html</loc>
+<loc>https://sonofhypnos.github.io/blog/prediction/python/2020/01/30/sp500.html</loc>
 <lastmod>2020-01-30T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://sonofhypnos.github.io/projects/2021/02/09/Untitled.html</loc>
+<loc>https://sonofhypnos.github.io/blog/2021/02/09/Untitled.html</loc>
 <lastmod>2021-02-09T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://sonofhypnos.github.io/projects/</loc>
+<loc>https://sonofhypnos.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://sonofhypnos.github.io/projects/now/</loc>
+<loc>https://sonofhypnos.github.io/blog/now/</loc>
 </url>
 </urlset>
