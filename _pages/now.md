@@ -5,7 +5,6 @@ permalink: /now/
 ---
 Right now, I'm living in Karlsruhe in Germany. I spend my time:
  - listening to the [ClearerThinking Podcast](https://www.clearerthinking.org/podcast)
- - reading ["A Journal of the Plague Year"](https://en.wikipedia.org/wiki/A_Journal_of_the_Plague_Year)
- - meeting in the [AI reading group](https://aisafety.com/reading-group/) every thursday 19:45 UTC
+ - messing with my [emacs configuration](https://github.com/sonofhypnos/emacs-config)
  - lurking on [lesswrong](https://lesswrong.com)
  - studying for my university courses
