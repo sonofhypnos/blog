@@ -1,6 +1,6 @@
 ---
 keywords: fastai
-description: "a baseline forecast using python"
+description: "i3-scratchpad"
 title: Using org-capture-protocol with i3-scratchpad
 toc: truE
 branch: master
